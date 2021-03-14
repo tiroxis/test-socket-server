@@ -1,0 +1,15 @@
+.page-layout{
+  height: 100%;
+
+  .page-sidebar{
+    background: #eee;
+  }
+
+  .page-content{
+    margin:20px 40px;
+    background: #fff;
+    box-sizing: border-box;
+    padding:40px;
+  }
+
+}
